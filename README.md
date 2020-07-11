@@ -1,2 +1,2 @@
 # LetsUpgrade-AI-ML
-Assignentsand Projects of LetsUpgrade-AI-ML Program Uploaded here
+Assignents and Projects of LetsUpgrade-AI-ML Program Uploaded here
